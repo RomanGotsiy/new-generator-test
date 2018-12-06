@@ -1,0 +1,7 @@
+
+apiTitle: TestAPI
+splitSpec: true
+codeSamples: true
+swaggerUI: true
+travis: true
+repo: RomanGotsiy/new-generator-test
