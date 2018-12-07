@@ -44,7 +44,7 @@ info:
     interfaces have done for lower-level programming, OpenAPI removes the
     guesswork in calling the service.
   version: 1.0.0
-  title: Example.com
+  title: Example.com Prod
   termsOfService: 'https://example.com/terms/'
   contact:
     email: contact@example.com
