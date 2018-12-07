@@ -2,7 +2,7 @@
   "name": "TestAPI",
   "version": "1.0.0",
   "dependencies": {
-    "swagger-repo": "^2.0.0-dev.1"
+    "swagger-repo": "^2.0.0-dev.2"
   },
   "private": true,
   "scripts": {
